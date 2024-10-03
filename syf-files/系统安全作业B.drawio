@@ -274,7 +274,7 @@
           <mxGeometry x="27" y="819.18" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="soX6ATtbK1rWT_qVsWqm-87" value="172.67.75.39:443&lt;br&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(www.wireshark.org)&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="620" y="626" width="170" height="70" as="geometry" />
+          <mxGeometry x="620" y="625" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="soX6ATtbK1rWT_qVsWqm-88" value="10.0.2.15:59596" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="645" y="566" width="120" height="55" as="geometry" />
