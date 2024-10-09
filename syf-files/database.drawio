@@ -323,7 +323,7 @@
           <mxGeometry x="863.25" y="1360" width="51.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OqtR3Mtmg-c2K8xWfE8R-118" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center; text-wrap: nowrap;&quot;&gt;初级交易员（C, {账户, 交易, 财报}）&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;可读：账户信息、小额交易、公开/内部财报；&lt;br&gt;&lt;br&gt;可写：小额交易&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="409" y="1400" width="240" height="120" as="geometry" />
+          <mxGeometry x="400" y="1410" width="249" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OqtR3Mtmg-c2K8xWfE8R-119" value="财报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="538" y="1360" width="41" height="30" as="geometry" />
@@ -416,7 +416,7 @@
           <mxGeometry x="838" y="1830" width="41" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OqtR3Mtmg-c2K8xWfE8R-156" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center; text-wrap: nowrap;&quot;&gt;高级交易员（S, {账户, 高级交易}）&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;可读：账户信息、小额/大额交易、公开/内部财报；&lt;br&gt;&lt;br&gt;可写：大额交易&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="696" y="1410" width="240" height="120" as="geometry" />
+          <mxGeometry x="678.75" y="1410" width="284" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
