@@ -381,7 +381,7 @@
           <mxGeometry x="314.5" y="1025" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qm9onJdicJjvLXKeHIaW-215" value="Scenario Graph" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="598.52" y="1070" width="90" height="30" as="geometry" />
+          <mxGeometry x="599.52" y="1070" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qm9onJdicJjvLXKeHIaW-216" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;System Log Collection&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105.79" y="923" width="184.21" height="30" as="geometry" />
@@ -419,10 +419,10 @@
           <mxGeometry x="6" y="77" width="80" height="44" as="geometry" />
         </mxCell>
         <mxCell id="qm9onJdicJjvLXKeHIaW-234" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="qm9onJdicJjvLXKeHIaW-236">
-          <mxGeometry x="112.49000000000001" y="26.75" width="84" height="70" as="geometry" />
+          <mxGeometry x="112.49000000000001" y="22.75" width="84" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qm9onJdicJjvLXKeHIaW-223" value="" style="group" vertex="1" connectable="0" parent="qm9onJdicJjvLXKeHIaW-236">
-          <mxGeometry x="119.49000000000001" y="33" width="68" height="57" as="geometry" />
+          <mxGeometry x="119.49000000000001" y="29" width="68" height="57" as="geometry" />
         </mxCell>
         <mxCell id="qm9onJdicJjvLXKeHIaW-224" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="qm9onJdicJjvLXKeHIaW-223">
           <mxGeometry x="26" y="22" width="14" height="14" as="geometry" />
